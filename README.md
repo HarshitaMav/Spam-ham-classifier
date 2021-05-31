@@ -14,7 +14,7 @@ In simple words, the dependent variable is binary in nature having data coded as
 
 Mathematically, a logistic regression model predicts P(Y=1) as a function of X. 
 
-Here our classification is dependent variable on various words used in mails and the labels in the dataset used for training.
+Here our classification is dependent variable on factors like various words used in mails and the labels in the dataset used for training.
 
 1. This project is done using Logisic Regresssion by 3 different ways.
 2. This project also visaulizes the data i.e. Number of spam and ham mails and some graphs.
