@@ -23,6 +23,6 @@ Here our classification is dependent variable on factors like various words used
 
 ![image.png](https://miro.medium.com/max/1280/1*OUOB_YF41M-O4GgZH_F2rw.png)
 
-Dataset: ![Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset) 
+Dataset: Link:[Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset) 
 
-Kaggle Notebook - ![Link](https://www.kaggle.com/harsitamav123/spam-ham)
+Kaggle Notebook - Link:[Link](https://www.kaggle.com/harsitamav123/spam-ham)
