@@ -21,5 +21,5 @@ Here our classification is dependent variable on factors like various words used
 2. This project also visaulizes the data i.e. Number of spam and ham mails and some graphs.
 3. Finally there are 2 word clouds for ham and spam words used respectively.
 
-![image.png](attachment:7f57420c-1c0d-4c19-9b48-efbcaba2e746.png)
+![image.png](https://miro.medium.com/max/1280/1*OUOB_YF41M-O4GgZH_F2rw.png)
 
