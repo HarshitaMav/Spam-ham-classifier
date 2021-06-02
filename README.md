@@ -1,5 +1,5 @@
 # Spam-ham-classifier
-![image.png](attachment:e29da761-6007-426d-9e57-4d3b6b825a33.png)
+![image.png](/attachment:e29da761-6007-426d-9e57-4d3b6b825a33.png)
 
 ## About the project
 We used previously collected data in order to train the model and predicted the category for new incoming emails. 
