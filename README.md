@@ -26,3 +26,5 @@ Here our classification is dependent variable on factors like various words used
 Dataset : [Kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset) 
 
 Kaggle Notebook : [Link](https://www.kaggle.com/harsitamav123/spam-ham)
+
+Medium : [Report](https://harsita-mav.medium.com/spam-ham-classifier-6974c3ff34f3)
